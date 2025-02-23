@@ -98,7 +98,7 @@
 					},
 					"Weight": 100,
 					"Type": "Angle",
-					"Reflect": false
+					"Reflect": true
 				}
 			],
 			"Output": [
@@ -230,7 +230,7 @@
 					},
 					"Weight": 90,
 					"Type": "Angle",
-					"Reflect": false
+					"Reflect": true
 				}
 			],
 			"Output": [
@@ -291,7 +291,7 @@
 					},
 					"Weight": 90,
 					"Type": "Angle",
-					"Reflect": false
+					"Reflect": true
 				}
 			],
 			"Output": [
@@ -413,7 +413,7 @@
 					},
 					"Weight": 90,
 					"Type": "Angle",
-					"Reflect": false
+					"Reflect": true
 				}
 			],
 			"Output": [
@@ -901,7 +901,7 @@
 					},
 					"Weight": 60,
 					"Type": "Angle",
-					"Reflect": false
+					"Reflect": true
 				},
 				{
 					"Source": {
@@ -919,7 +919,7 @@
 					},
 					"Weight": 40,
 					"Type": "Angle",
-					"Reflect": false
+					"Reflect": true
 				}
 			],
 			"Output": [
